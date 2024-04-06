@@ -7,7 +7,7 @@ const Popup = () => {
     return (
         <div className="Popup">
             <img src={logo} />
-            <div className="text-wrapper">Hello! I'm extension's popup. Nice to meet you.</div>
+            <div className="text-wrapper">salman.</div>
         </div>
     );
 };
